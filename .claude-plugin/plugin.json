@@ -1,0 +1,8 @@
+{
+  "name": "deep-refactor",
+  "version": "1.0.0",
+  "description": "Deep code analysis and refactoring with comprehensive diagnostics and automated fixes",
+  "author": {
+    "name": "Leopoldo Meireles"
+  }
+}
